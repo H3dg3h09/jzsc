@@ -1,0 +1,5 @@
+PyMySQL==0.8.0
+pywin32==223
+redis==2.10.6
+Scrapy==1.5.0
+scrapy-redis==0.6.8
